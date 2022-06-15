@@ -5,7 +5,8 @@
 
 <p>
   Bem vindo a minha pagina!</br>
-  Me chamo Doug, desenvolvedor Back-End e estudando para me tornar um Full-Stack, atualmente moro em <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Rio de Janeiro, Brasil</b>. </p>
+  Me chamo Doug, desenvolvedor Back-End e estudando para me tornar um Full-Stack,</br>
+  Atualmente moro em <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Rio de Janeiro, Brasil</b>. </p>
 
 <h3>
   Meus conhecimentos - Front-End
