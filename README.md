@@ -5,7 +5,7 @@
 
 <p>
   Bem vindo a minha pagina!</br>
-  Me chamo Doug, desenvolvedor Back-End e estudando para me tornar um Full-Stack,</br>
+  Me chamo Doug, sou desenvolvedor Back-End e estudando para me tornar um Full-Stack,</br>
   Atualmente moro em <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Rio de Janeiro, Brasil</b>. </p>
 
 <h3>
@@ -27,15 +27,22 @@
 </p>
 
 <h3>
-  Proximo passo...
+  Cursos e Certificados
 </h3>
 
-<p>
-  <img alt="VUE.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</p>
+<ul>
+  <li>
+    <a href="https://cursos.alura.com.br/degree/certificate/edf31be9-9c1f-4652-b2fc-fd4a74ccf025">
+      <b>
+        📃 Alura - Formação HTML e CSS
+      </b>
+    </a>
+    <br/>
+    <i>
+      Curso de Arquitetura CSS da Alura..
+    </i>
+  </li>
+</ul>
 
 <h3>
   Meus git
