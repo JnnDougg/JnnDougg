@@ -38,14 +38,11 @@
       </b>
     </a>
     <br/>
-    <i>
-      Curso de Arquitetura CSS da Alura..
-    </i>
   </li>
 </ul>
 
 <h3>
-  Meus git
+  Meus Repositorios
 </h3>
 
 <ul>
